@@ -35,7 +35,7 @@ Bem-vindo ao repositório do **Paçoca**, uma rede social moderna onde você pod
 #🧑‍💻 **Perfil**
 ![image](https://github.com/user-attachments/assets/f83f5cff-b9ea-4776-acbb-f27e0116b71a)
 
-#🧑‍💻 **Integração com ReadBook **
+#🧑‍💻 **Integração com ReadBook**
 ![image](https://github.com/user-attachments/assets/4088e919-8261-47d7-b097-56fe5983e2f1)
 
 
