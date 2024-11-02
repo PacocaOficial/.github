@@ -29,15 +29,15 @@ Bem-vindo ao repositório do **Paçoca**, uma rede social moderna onde você pod
 - **Axios**: Para requisições HTTP no frontend.
 -->
 
-#🧑‍💻 **Feed**
+## 🧑‍💻 **Feed**
 ![image](https://github.com/user-attachments/assets/4cf4dfbb-7609-4da7-a1cc-36f6f2b5f6cd)
 
-#🧑‍💻 **Perfil**
+## 🙅‍♀️ **Perfil**
 ![image](https://github.com/user-attachments/assets/f83f5cff-b9ea-4776-acbb-f27e0116b71a)
 
-#🧑‍💻 **Integração com ReadBook**
+## 🌍 **Integração com ReadBook**
 ![image](https://github.com/user-attachments/assets/4088e919-8261-47d7-b097-56fe5983e2f1)
 
 
-#🧑‍💻 **Dashboard**
+## 📉 **Dashboard**
 ![image](https://github.com/user-attachments/assets/9847faeb-77ba-497f-ac95-7a5a68beb9fd)
