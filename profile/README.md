@@ -3,9 +3,10 @@
 Bem-vindo ao repositório do **Paçoca**, uma rede social moderna onde você pode compartilhar posts, seguir amigos e acompanhar suas atualizações. 🚀
 
 ## 🔗 **Links**
-- **Site**: [https://pacoca.site/](https://pacoca.site/)
-- **Aplicativo Android: [Play Store](https://play.google.com/store/apps/details?id=com.joaoenrique13.Pacoca&pcampaignid=web_share)**
-- **Aplicativo IOS: (Não disponivel)**
+- 🌐 **Site**: [https://pacoca.site/](https://pacoca.site/)
+- <img height="15px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-original.svg" /> **Download para Android: [Play Store](https://play.google.com/store/apps/details?id=com.joaoenrique13.Pacoca&pcampaignid=web_share)**
+- <img height="15px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" />  **Download para Windows: [Site do Paçoca](https://pacoca.site/download)**
+- <img height="15px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apple/apple-original.svg" /> **Aplicativo IOS: (Em desenvolvimento)**
 
 ## 📸 **Funcionalidades**
 - **Feed Dinâmico**: Carregue posts e acompanhe as atualizações de quem você segue.
