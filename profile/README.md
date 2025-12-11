@@ -6,6 +6,8 @@ Bem-vindo ao repositório do **Paçoca**, uma rede social moderna onde você pod
 - 🌐 **Site**: [https://pacoca.site/](https://pacoca.net/)
 - <img height="15px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-original.svg" /> **Download para Android: [Play Store](https://play.google.com/store/apps/details?id=com.joaoalves.pacoca)**
 - <img height="15px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" />  **Download para Windows: [Site do Paçoca](https://pacoca.net/download)**
+- <img height="15px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apple/apple-original.svg" />  **Download para MacOS: [Site do Paçoca](https://pacoca.net/download)**
+- <img height="15px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />  **Download para Linux: [Site do Paçoca](https://pacoca.net/download)**
 - <img height="15px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apple/apple-original.svg" /> **Aplicativo IOS: (Em desenvolvimento)**
 
 ## 📸 **Funcionalidades**
