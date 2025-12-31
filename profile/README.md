@@ -8,7 +8,7 @@ Bem-vindo ao repositório do **Paçoca**, uma rede social moderna onde você pod
 - <img height="15px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" />  **Download para Windows: [Site do Paçoca](https://pacoca.net/download)**
 - <img height="15px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apple/apple-original.svg" />  **Download para MacOS: [Site do Paçoca](https://pacoca.net/download)**
 - <img height="15px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />  **Download para Linux: [Site do Paçoca](https://pacoca.net/download)**
-- <img height="15px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apple/apple-original.svg" /> **Aplicativo IOS: (Em desenvolvimento)**
+- <img height="15px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apple/apple-original.svg" /> **Aplicativo IOS: [Apple Store](https://apps.apple.com/br/app/pa%C3%A7oca/id6742334455)**
 
 ## 📸 **Funcionalidades**
 - **Feed Dinâmico**: Carregue posts e acompanhe as atualizações de quem você segue.
